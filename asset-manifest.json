@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-ufmfv/static/css/main.7aaf2ab8.chunk.css",
+    "main.js": "https://.github.io/csb-ufmfv/static/js/main.4532efa6.chunk.js",
+    "main.js.map": "https://.github.io/csb-ufmfv/static/js/main.4532efa6.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ufmfv/static/js/runtime-main.6a024eb3.js",
+    "runtime-main.js.map": "https://.github.io/csb-ufmfv/static/js/runtime-main.6a024eb3.js.map",
+    "static/js/2.1c958d27.chunk.js": "https://.github.io/csb-ufmfv/static/js/2.1c958d27.chunk.js",
+    "static/js/2.1c958d27.chunk.js.map": "https://.github.io/csb-ufmfv/static/js/2.1c958d27.chunk.js.map",
+    "index.html": "https://.github.io/csb-ufmfv/index.html",
+    "static/css/main.7aaf2ab8.chunk.css.map": "https://.github.io/csb-ufmfv/static/css/main.7aaf2ab8.chunk.css.map",
+    "static/js/2.1c958d27.chunk.js.LICENSE.txt": "https://.github.io/csb-ufmfv/static/js/2.1c958d27.chunk.js.LICENSE.txt",
+    "static/media/header.b16bb34d.jpg": "https://.github.io/csb-ufmfv/static/media/header.b16bb34d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a024eb3.js",
+    "static/js/2.1c958d27.chunk.js",
+    "static/css/main.7aaf2ab8.chunk.css",
+    "static/js/main.4532efa6.chunk.js"
+  ]
+}
